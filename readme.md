@@ -41,3 +41,6 @@
 ![이상 감지 알림](https://github.com/idingg/fulfillment-automation/blob/main/images/5.png?raw=true)
 
 ## 시연 영상
+https://github.com/user-attachments/assets/98fbc3d4-be18-425d-b17d-142912f57d3a
+
+https://github.com/user-attachments/assets/1a3b7ff8-64e2-4477-adaf-24984a6d59ac
