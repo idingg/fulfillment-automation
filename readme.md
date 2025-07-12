@@ -1,4 +1,4 @@
-# Vision AI를 이용한 Fulﬁllment Automation
+# Vision AI를 이용한 NVIDIA Jetson Orin Nano 기반 Fulﬁllment Automation
 
 이 프로젝트는 YOLOv8 객체 탐지와 ArUco 마커 인식을 결합한 Vision AI와 Manipulator와 AMR을 이용한 물류 자동화(Fulfillment Automation) 시스템입니다. 컨베이어 벨트, 로봇 매니퓰레이터, Vision AI를 활용해 물류 현장의 자동 분류, 추적, 적재, 이송 등의 작업을 수행할 수 있도록 설계되었습니다. 본 시스템은 물류, 스마트 팩토리 등 다양한 분야의 자동화 솔루션에 적용할 수 있습니다.
 
